@@ -5,7 +5,6 @@ from weatherterm.core import Forecast
 from weatherterm.core import Request
 from weatherterm.core import Unit
 from weatherterm.core import UnitConverter
-from weatherterm.core import Mapper
 
 
 class WeatherComParser:

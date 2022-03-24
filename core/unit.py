@@ -6,3 +6,4 @@ from .base_enum import BaseEnum
 class Unit(BaseEnum):
     CELSIUS = auto()
     FAHRENHEIT = auto()
+    KELVIN = auto()
